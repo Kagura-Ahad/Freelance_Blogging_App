@@ -1,4 +1,4 @@
-# flutter_project_mansoor
+# Freelance_Blogging_App
 
 A new Flutter project.
 
